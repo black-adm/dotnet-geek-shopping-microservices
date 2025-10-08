@@ -1,1 +1,1 @@
-# dotnet-erudio-microservices
+# Geek Shopping
